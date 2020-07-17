@@ -30,6 +30,7 @@ A list of popular technologies to use in web projects
 25. mobx
 26. rxjs
 27. ngeohash
+28. eCharts
 
 ## Server side
 
